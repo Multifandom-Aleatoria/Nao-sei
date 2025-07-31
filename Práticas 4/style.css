@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+:root {
+    --COR: rgb(153, 127, 255); 
+}
+
+h1{
+    font-family: 'Caveat';
+    color: aquamarine;
+}
+
+p {
+    color: var(--COR);
+}
+
+#TITULOLegal {
+    color: rebeccapurple;
+}
+
+.Topico {
+    color: lightgray;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: palegreen;
+}
+
+a:visited {
+    color: slategrey;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.legalL:hover {
+    color: wh;
+    background-color: red;
+    text-decoration: none;
+}
